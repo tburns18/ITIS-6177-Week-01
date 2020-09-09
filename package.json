@@ -1,0 +1,25 @@
+{
+  "name": "itis-6177-week-01",
+  "version": "1.0.0",
+  "description": "ITIS6177-week01",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tburns18/ITIS-6177-Week-01.git"
+  },
+  "author": "Tyler Burns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tburns18/ITIS-6177-Week-01/issues"
+  },
+  "homepage": "https://github.com/tburns18/ITIS-6177-Week-01#readme"
+}
